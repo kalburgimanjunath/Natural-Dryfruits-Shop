@@ -1,7 +1,7 @@
 body {
   font-family: "Poppins", sans-serif;
   color: #040000;
-  background-color: #ffffff;
+  background-color: #F5EFE6;
 }
 
 .layout_padding {
@@ -111,7 +111,7 @@ a:focus {
 .slider_section .carousel-control-next {
   width: 90px;
   height: 90px;
-  background-color: #252525;
+  background-color: #7895B2;
   opacity: 1;
   top: 50%;
   -webkit-transform: translateY(-50%);
@@ -146,13 +146,13 @@ a:focus {
 
 .nav_section .custom_nav2 .custom_nav-container {
   padding: 10px 0;
-  background-color: #252525;
+  background-color: #7895B2;
   border-radius: 5px;
 }
 
 .nav_section .custom_nav2 .custom_nav-container .navbar-nav .nav-item .nav-link {
   padding: 10px 30px;
-  color: #ffffff;
+  color: white;
   text-align: center;
   position: relative;
 }
@@ -264,9 +264,9 @@ a:focus {
 .about_section .detail-box a {
   display: inline-block;
   padding: 10px 40px;
-  background-color: #313131;
-  border: 1px solid #313131;
-  color: #ffffff;
+  background-color: 7895B2;
+  border: 1px solid 7895B2;
+  color: AEBDCA;
   margin-top: 10px;
 }
 
@@ -576,7 +576,7 @@ a:focus {
 /* contact section */
 /* info section */
 .info_section {
-  background-color: #2e2e2e;
+  background-color: #7895B2;
   color: #ffffff;
 }
 
