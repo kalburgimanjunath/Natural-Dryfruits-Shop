@@ -719,10 +719,28 @@ a:focus {
 }
 
 /* end footer section*/
+.head{
+  background-color: black;
+  color: white;  
+}
+.btnx{
+  position: absolute;
+  color: white;
+  margin-left: 20px;
+}
+.btnx:hover{
+  background-color: white;
+}
+
 @media(min-width: 1300px){
   .abtHead{
     margin-top: 100px;
   }
 }
 
-
+@media (max-width: 500px){
+  .fruit_section .fruit_container .box .link_box {
+    top: 0;
+    opacity: 0.7;    
+  } 
+}
